@@ -1,0 +1,12 @@
+{
+  "name": "webpack-book",
+  "version": "1.0.0",
+  "description": "This project is part of the webpack book tutorial and the main learning goals are:\r - get up and running with webpack\r - configure webpack-plugin-serve\r - advanced configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
